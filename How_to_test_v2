@@ -1,0 +1,7 @@
+There are three files:
+
+	1/ Myclass.h
+	2/ Myclass.cpp
+	3/ lib/libmyclass.so
+
+Replace them by your own files.
